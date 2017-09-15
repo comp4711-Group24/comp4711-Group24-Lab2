@@ -16,6 +16,7 @@
  - Add a new file, "changelog.md"  @Hugh
  - set up team membership and format style in changelog @Hugh
  - Add a new quote to the mock database @Ryan
+ - Add a tooltip to member's picture @Junnan
  - Add actor.php @Hugh
  - Add show function @Hugh
 
