@@ -24,5 +24,6 @@
 
 ### Modify
  -  the image element is contained inside an anchor element @Hugh
+ -  Formatted the display of the quote display @Ryan
 
 

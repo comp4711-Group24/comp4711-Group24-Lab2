@@ -1,5 +1,10 @@
 /* CSS definition file containing site stylesheet */
-body {}
+body {font-family: 'Roboto', sans-serif; }
 #content {width:100%; margin-left:5% auto;margin-right:5% auto;}
 #footer {font-size: small; font-style:italic;text-align:center;}
 .row>div {margin-bottom:10px;}
+.show-card {background-color: #ddd;}
+img {margin-top: 20px;}
+.quote {margin-top: 30px;}
+.quote-text {font-size: 1.5em;}
+.quotation-mark {font-size: 3em;}
