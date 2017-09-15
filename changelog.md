@@ -15,6 +15,7 @@
 ### added
  - Add a new file, "changelog.md"  @Hugh
  - set up team membership and format style in changelog @Hugh
+ - Add a new quote to the mock database @Ryan
 
 ### move
  - move changelog.md to project root  @Hugh
