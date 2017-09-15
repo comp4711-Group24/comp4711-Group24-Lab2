@@ -15,7 +15,14 @@
 ### added
  - Add a new file, "changelog.md"  @Hugh
  - set up team membership and format style in changelog @Hugh
+ - Add a new quote to the mock database @Ryan
+ - Add actor.php @Hugh
+ - Add show function @Hugh
 
 ### move
  - move changelog.md to project root  @Hugh
+
+### Modify
+ -  the image element is contained inside an anchor element @Hugh
+
 
