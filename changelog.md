@@ -11,9 +11,11 @@
 
 
 
-
 ##[0.0.1] -2017-09-14
 ### added
  - Add a new file, "changelog.md"  @Hugh
  - set up team membership and format style in changelog @Hugh
+
+### move
+ - move changelog.md to project root  @Hugh
 
